@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/spespednotes/static/css/main.9800b64f.css",
+    "main.js": "/spespednotes/static/js/main.0478d4ef.js",
+    "static/js/787.aee1c574.chunk.js": "/spespednotes/static/js/787.aee1c574.chunk.js",
+    "static/media/kartlegging.jpg": "/spespednotes/static/media/kartlegging.afff9bcb784cb22e2b1d.jpg",
+    "static/media/spesped.jpg": "/spespednotes/static/media/spesped.86ee3c07be962c75f962.jpg",
+    "static/media/tiltakskjedetabell.JPG": "/spespednotes/static/media/tiltakskjedetabell.7b02781fc0e2d9019319.JPG",
+    "static/media/tiltakskjeden.JPG": "/spespednotes/static/media/tiltakskjeden.14b34f5a1d6aaecd6f9a.JPG",
+    "index.html": "/spespednotes/index.html",
+    "main.9800b64f.css.map": "/spespednotes/static/css/main.9800b64f.css.map",
+    "main.0478d4ef.js.map": "/spespednotes/static/js/main.0478d4ef.js.map",
+    "787.aee1c574.chunk.js.map": "/spespednotes/static/js/787.aee1c574.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9800b64f.css",
+    "static/js/main.0478d4ef.js"
+  ]
+}
