@@ -1,0 +1,20 @@
+.container {
+    text-align: center;
+    color:rgb(218, 101, 101);
+    font-size: 40px;
+    display: inline-flex;
+    background-color: rgb(240, 221, 145);
+    border: 2px black solid;
+    border-radius: 25px;
+    box-shadow: 10px 10px 8px #888888;
+}
+
+.container img{
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+}
+
+.card {
+    margin: 50px;
+}

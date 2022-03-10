@@ -1,0 +1,21 @@
+{
+    "begreper" : {
+        "schreening":"Stor gruppe. Fange opp risiko. 'Pedagogisk beinbrudd.' (Elever med gode intelektuelle evner kan klare å 'fake' en schreening) OBS! Etter en schreening kan du ikke trekke konklusjoner!",
+    "tiltredende kartlegging":"Individuell kartlegging. Bredt spekter av undersøkelser og tester. 'Røntgenbilde av beinburddet'",
+    "monitorering":"undersøk endringer over tid.",
+    "tiltaksutprøvende kartlegging":"RTI- Respons to interventon",
+    "vurdering":"Overodana begrep. Omfatter all form for innsamlet data.",
+    "måling":"En type vurdering hvor man setter en tallverdi på ferdighetene. F.eks karakterer A til F.",
+    "test":"Et måleinstrument. Det er utviklet med et formål om å dokumnetere bestemte ferdigheter.",
+    "observasjon": ["Tilfeldig eller systematisk", "Både individ og gruppe"],
+    "Tester": ["Strenge krav til gjennomføring", "'Objektive' resultater"],
+    "intervju og sjekklister":["Hente informasjon hos en annen part", "Kan gå tilbake i tid"]
+},
+    "tester": {
+        "20spørsmål":"Utviklet av førskolelærere og lærer",
+        "språk 6-16":"Standardisert og normert test for 6-16 år.",
+        "ordkjennestesten":"Tester avkodingsferdigheter, leseferdighter. Standardisert og normert.",
+        "setningsleseprøven" :"Leseforståelse(?), Standardisert og normert",
+        "info":"Alle disse testene må KJØPES!"
+    }
+}

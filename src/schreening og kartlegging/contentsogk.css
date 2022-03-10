@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card {
+    border: 2px black solid;
+    border-radius: 25px;
+    background-color: rgb(240, 221, 145);
+    margin-top: 20px;
+    box-shadow: 10px 10px 8px #888888;
+}
+.card ul li {
+    list-style-type: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    margin: 30px;
+    padding: 10px;
+    display: inline-table;
+    border-bottom: 2px solid black;
+    border-radius: 20%;
+    background-color: blanchedalmond;
+}
+.card ul li:hover{
+    background-color: cadetblue;
+    transition-duration: 500ms;
+    cursor: pointer;
+}

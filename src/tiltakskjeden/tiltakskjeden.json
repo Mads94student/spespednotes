@@ -1,0 +1,37 @@
+[
+    {
+        "emne" : "Spesialpedagogisk hjelp i barnehage",
+        "info1": "I 2020 fikk 3,4% av barn i barnehagen spesialpedagogisk hjelp, mye av hjelpen er språkrelaterte. Mye også trening på sosiale ferdigheter.",
+        "info2": "I barnehagen så er 7/10 av de som får spesialpedagogisk hjelp, gutter. Hvorfor er det sånn?"
+    },
+    {
+        "emne" : "Spesialundervisning i grunnskolen",
+        "info1": "Høsten 2020 fikk nesten 8 prosen av elevene i grunnskolen spesialundervisning, noe som utgjorde nærmere 50 000 elever.",
+        "info2": "Andelen elever med spesialundervisning øker gjennom trinnene. 10% av elevene får spesialundervisning på 10. trinn.",
+        "info3": "Over halvparten av vedtakene om spesialundervisning er på mer enn 190 timer i året."
+    },
+    {
+        "emne" : "Spesialpedagogiske tiltak ofte bra for alle barn",
+        "info1": "Ofte er det slik at spesialpedagogiske metoder er overførbare, og at det som er bra for barn med spesielle behov er bra for alle barn.",
+        "info2": "Et godt allemnnpedagogisk tilbud kan innebære at færre barn har behov for spesialpedagogisk hjelp."
+    },
+    {
+        "emne" : "Spesialpedagogisk kompetanse",
+        "info1": "Elever som strever får best hjelp av lærere som kan noe om elever som strever. Lærere med spesialpedagogisk kompetanse kunne hjulpet disse elevene i normalskolen, sier Haug."
+    },
+    {
+        "emne" : "Spesialundervisningens tiltakskjede",
+        "info1" : "Omfatter flere ledd fra et problem oppdages og meldes fra om til at behovet for spesualundervisning vedtas, planlegges, gjennomføres og vurderes.",
+        "info2" : "Viktig å kjenne til og følge opp regelverketm samtidig som man bruker de lokale handlingsrommet for å ta hensyn til lokale og individuelle rettigheter."
+    },
+    {
+        "emne" : "Faser i saksgangen (tiltakskjeden)",
+        "info1": {"fase1": "Førtilmeldingsfase/bekymringsfasen",
+        "fase2": "Tilmeldingsfasen",
+        "fase3":"Utednings- og tilrådingsfasen",
+        "fase4":"Vedtaksfasen",
+        "fase5":"Planleggings- og gjennomføringsfasen (IOP)",
+        "fase6":"Vurderingsfasen"},
+        "info2" : "Med den nye opplæringsloven så skal vi som lærere jobbe mer systemisk!"
+    }
+]
